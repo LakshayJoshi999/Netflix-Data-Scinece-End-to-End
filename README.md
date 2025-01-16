@@ -2,9 +2,9 @@
 
 ## Project Overview
 This project aims to analyze Netflix's data using a range of data science techniques. It covers the entire data science pipeline, from data preprocessing to building predictive models, with an emphasis on user behavior and recommendation systems.
-- **Understanding trends in content availability.
-- **Analyzing viewing patterns or ratings.
-- **Gaining insights into Netflix's catalog, user behavior, or performance.
+- Understanding trends in content availability.
+- Analyzing viewing patterns or ratings.
+- Gaining insights into Netflix's catalog, user behavior, or performance.
 
 ## Key Features
 - **Data Loading and Cleaning**: Loading the dataset and performing data cleaning to handle missing values, duplicates, and inconsistencies.
